@@ -35,7 +35,7 @@ Abaixo, apresentamos um comparativo visual entre a versão atual e a proposta de
 
 ### Nova Proposta (Protótipo)
 *Design "Clean", foco na tipografia, cards distintos para cada método de doação e Dark Mode no cabeçalho/rodapé para sofisticação.*
-![Novo Design](docs/screenshots/prototype_page_1765986308620.png)
+![Novo Design](docs/screenshots/prototype_page_v2.png)
 
 ---
 
@@ -76,4 +76,4 @@ Para visualizar este projeto em sua máquina:
 *   **Repositório do Protótipo**: [https://github.com/marcellocunha/contribuicao](https://github.com/marcellocunha/contribuicao)
 
 ---
-© 2024 Desenvolvido como proposta de melhoria de UX/UI.
+© 2025 Desenvolvido como proposta de melhoria de UX/UI.
